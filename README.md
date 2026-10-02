@@ -207,4 +207,4 @@ This philosophy isn't always spelled out in docs — but you'll feel it as you w
 
 Use the contracts in this repository as a reference — especially the ones you're already familiar with.
 
-Finally, Tolk is supported in blueprint. Run `npm create ton@latest`, and start experimenting!
+Finally, Tolk is supported in blueprint. Run `npm create ton@latest`, and start experimenting! 9.6.0.46
