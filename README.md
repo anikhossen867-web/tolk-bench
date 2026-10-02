@@ -45,7 +45,7 @@ In gas units, plus code side (bits / cells).
 |---------------------------------|------------|------------|-----------------|
 | MINT jettons by admin           | 17053      | 10664      | **-37.47%**     |
 | TRANSFER with forward_amount    | 19638      | 14024      | **-28.59%**     |
-| TRANSFER no forward_amount      | 16984      | 11655      | **-31.38%**     |
+| TRANSFER no forward_amount      | 16984      | 11655      | **-31.38%**   n  |
 | BURN jettons                    | 12732      | 8532       | **-32.99%**     |
 | DISCOVER with include_address   | 7107       | 4169       | **-41.34%**     |
 | DISCOVER no include_address     | 6545       | 3607       | **-44.89%**     |
